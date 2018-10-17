@@ -1,0 +1,16 @@
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\bin\Debug\UILabs.exe.config
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\bin\Debug\UILabs.exe
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\bin\Debug\UILabs.pdb
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.Form1.resources
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.Properties.Resources.resources
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.csproj.GenerateResource.Cache
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.csproj.CoreCompileInputs.cache
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.exe
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.pdb
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.csprojAssemblyReference.cache
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.Lab3_ArraysInput.resources
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.Lab4Input.resources
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\bin\Debug\MaterialSkin.dll
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.Lab7.resources
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.csproj.CopyComplete
+D:\Learn\LP\24\АСД\Labs\UILabs\UILabs\obj\Debug\UILabs.OututForm.resources
